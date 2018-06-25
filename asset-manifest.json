@@ -1,17 +1,15 @@
 {
   "main.css": "static/css/main.7bcae14b.css",
   "main.css.map": "static/css/main.7bcae14b.css.map",
-  "main.js": "static/js/main.2f9c8677.js",
-  "main.js.map": "static/js/main.2f9c8677.js.map",
-  "static/media/1.jpg": "static/media/1.fbbe60a9.jpg",
-  "static/media/1.png": "static/media/1.856c26e9.png",
-  "static/media/2.jpg": "static/media/2.50214be9.jpg",
-  "static/media/2.png": "static/media/2.7a681589.png",
-  "static/media/3.jpg": "static/media/3.9dfe03cd.jpg",
-  "static/media/3.png": "static/media/3.86764162.png",
-  "static/media/6.jpg": "static/media/6.29196216.jpg",
-  "static/media/6507677125d6f270c523e78dbb88976d.jpg": "static/media/6507677125d6f270c523e78dbb88976d.0e23f9bf.jpg",
-  "static/media/7f66278d969b1666990f2364a3e3cb73.jpg": "static/media/7f66278d969b1666990f2364a3e3cb73.63c2ecde.jpg",
-  "static/media/biggi.jpg": "static/media/biggi.a889c0df.jpg",
-  "static/media/tilo.jpg": "static/media/tilo.debaf2d3.jpg"
+  "main.js": "static/js/main.bc851c7c.js",
+  "main.js.map": "static/js/main.bc851c7c.js.map",
+  "static/media/1.jpg": "static/media/1.c7aae706.jpg",
+  "static/media/2.jpg": "static/media/2.ba343e5a.jpg",
+  "static/media/3.jpg": "static/media/3.29c20747.jpg",
+  "static/media/4.jpg": "static/media/4.5c01fe7e.jpg",
+  "static/media/5.jpg": "static/media/5.3554425c.jpg",
+  "static/media/6.jpg": "static/media/6.fdaf7f57.jpg",
+  "static/media/Biggi.jpg": "static/media/Biggi.594c5ff7.jpg",
+  "static/media/Chris.jpg": "static/media/Chris.5d079008.jpg",
+  "static/media/Tilo.jpg": "static/media/Tilo.030f5517.jpg"
 }
